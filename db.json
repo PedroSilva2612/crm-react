@@ -1,0 +1,12 @@
+{
+  "clientes": [
+    {
+      "nombre": "Pedro Silva",
+      "empresa": "Freelance",
+      "email": "pedrosilv09@gmail.com",
+      "telefono": "4120120539",
+      "notas": "El cliente quiere un cruso sobre React",
+      "id": 1
+    }
+  ]
+}
